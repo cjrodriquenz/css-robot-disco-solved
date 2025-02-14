@@ -84,12 +84,6 @@ body {
   transform: translate(-50%, -50%);
 }
 
-.robot-nose:before {
-}
-
-.robot-nose:after {
-}
-
 .robot-teeth {
   display: flex;
   position: absolute;
